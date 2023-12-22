@@ -4,6 +4,7 @@
   box-sizing: border-box;
   text-decoration: none;
   list-style: none;
+  font-family: Avert-Font-Bold;
   button{
     cursor: pointer;
   }
@@ -11,4 +12,13 @@
     background-color: #f99400;
     color: white;
   }
+}
+@font-face {
+  font-family: Avert-Font-Bold;
+  src: url("../src/assets/fonts/AvertaDemo-ExtraBoldItalic.otf");
+}
+
+@font-face {
+  font-family: Avert-Font-Regular;
+  src: url("../src/assets/fonts/AvertaDemo-Regular.otf");
 }

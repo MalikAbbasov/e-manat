@@ -1,0 +1,131 @@
+#emanatsection {
+    max-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+    padding-top: 50px;
+    .container {
+        width: 1300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        &_up {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: start;
+            .text {
+                width: fit-content;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                position: relative;
+                gap: 15px;
+                h1 {
+                    font-size: 60px;
+                    font-weight: 800;
+                    color: #f99400;
+                    line-height: 72px;
+                    letter-spacing: 2px;
+                }
+
+                h2 {
+                    font-size: 60px;
+                    font-weight: 800;
+                    color: #070814;
+                    line-height: 72px;
+                    letter-spacing: 4px;
+                }
+
+                img {
+                    position: absolute;
+                    top: -60px;
+                    right: -60px;
+                    width: 90px;
+                    height: 90px;
+                }
+            }
+        }
+        &_down {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            min-height: 730px;
+            .down_left{
+                width: 300px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                flex-direction: column;
+                gap: 20px;
+                min-height: 600px;
+                .card{
+                    width: 100%;
+                    height: 180px;
+                    display: flex;
+                    align-items: start;
+                    justify-content: space-evenly;
+                    flex-direction: column;
+                    opacity: 0.5;
+                    transition: 350ms;
+                    cursor: pointer;
+                    &:hover{
+                        opacity: 1;
+                    }
+                    h5{
+                        font-size: 18px;
+                    }
+                    p{
+                        font-size: 16px;
+                        font-family: 'Roboto', sans-serif;
+                        a:hover{
+                          color: #f99400;  
+                        }
+                    }
+                }
+            }
+            .down_center{
+                width: 500px;
+                height: 100%;
+                margin-bottom: -27px;
+                img {
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+            .down_right{
+                width: 300px;
+                min-height: 600px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                flex-direction: column;
+                .card{
+                    width: 100%;
+                    height: 180px;
+                    display: flex;
+                    align-items: start;
+                    justify-content: space-evenly;
+                    flex-direction: column;
+                    opacity: 0.5;
+                    transition: 350ms;
+                    cursor: pointer;
+                    &:hover{
+                        opacity: 1;
+                    }
+                    h5{
+                        font-size: 18px;
+                    }
+                    p{
+                        font-size: 16px;
+                        font-family: 'Roboto', sans-serif;
+                    }
+                }
+            }
+        }
+    }
+}
+

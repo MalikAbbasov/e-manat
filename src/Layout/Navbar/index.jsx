@@ -1,11 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
 import "./navbar.scss";
 
 function Navbar() {
 
-    const handleInput = () => {
-        document.querySelector(".input-aside").classList.toggle("aside_input");
-    };
+    const [asideInp, setAsideInp] = useState(false)
+    function handleInput() {
+        setAsideInp(!asideInp)
+    }
 
     return (
         <div>
@@ -15,7 +16,7 @@ function Navbar() {
                     <div className="container">
                         <div className="container_pages">
                             <div className="search">
-                                <i className="fa-solid fa-magnifying-glass"></i>
+                                <i onClick={handleInput} className="fa-solid fa-magnifying-glass"></i>
                             </div>
                             <div className="pages">
                                 <ul>
@@ -36,18 +37,18 @@ function Navbar() {
                         </div>
                     </div>
                 </div>
-                {/* <div className="aside_input">
-                <div className="input-aside">
-                    <div className="search_input">
-                        <div className="inpt">
-                            <i className="fa-solid fa-magnifying-glass"></i>
-                            <input type="text" placeholder='Axtarış' />
+                <div className={`aside_input ${asideInp? "show":null}`}>
+                    <div className="input-aside">
+                        <div className="search_input">
+                            <div className="inpt">
+                                <i className="fa-solid fa-magnifying-glass"></i>
+                                <input type="text" placeholder='Axtarış' />
+                            </div>
+                            <i onClick={handleInput}  className=" exit_aside fa-solid fa-xmark"></i>
                         </div>
-                        <i onClick={handleInput} className="fa-solid fa-xmark"></i>
+                        <div className="down"></div>
                     </div>
-                    <div className="down"></div>
                 </div>
-                </div> */}
             </div>
         </div>
     );
