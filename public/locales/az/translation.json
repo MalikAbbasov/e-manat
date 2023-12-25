@@ -1,0 +1,80 @@
+{
+    "navbar":{
+        "pages": {
+            "li1":"Ana sehife",
+            "li2":"Haqqımızda",
+            "li3":"Əməkdaşlıq",
+            "li4":"Karyera",
+            "li5":"Terminal xəritəsi"
+        }
+    },
+    
+    "header":{
+        "text" : {
+            "h1":"ETİBARLI ÖDƏNİŞLƏR BİR ÜNVANDA!",
+            "p":"3000-DƏN ARTIQ ÖDƏNİŞ TERMİNALIMIZ VƏ İSTİFADƏÇİ DOSTU İNTERFEYSİMİZLƏ 7/24 XİDMƏTİNİZDƏYİK!",
+            "button":"Daha ƏtraflI"
+        }
+    },
+    "animation_section":{
+        "card1":{
+            "h3":"1000+ xidmət",
+            "p":"Bütün mobil, kommunal, bank, internet, TV, dövlət və s. ödənişləri eManat terminallarında!"
+        },
+        "card2":{
+            "h3":"3000+ terminal",
+            "p":"Sənə yaxın eManat ödəniş terminalında istədiyin xidmətə rahatlıqla ödəniş edə bilərsən!"
+        },
+        "card3":{
+            "h3":"Sürətli və etibarlı",
+            "p":"eManat ilə bütün ödənişləri rahat, sürətli və etibarlı həyata keçir!"
+        }
+    },
+    "emanatsection":{
+        "text":{
+            "h1":"eManat",
+            "h2":"ilə"
+        },
+        "card1":{
+            "h5":"Ödənişin dərhal qəbulu",
+            "p":"Ödəniş etdiyiniz anda provayder ödəniş barəsində məlumat alacaq və məbləğ dərhal balansınıza köçürüləcək",
+            "a":"köçürüləcək"
+        },
+        "card2":{
+            "h5":"Sürətli ödəmə imkanı",
+            "p":"eManat terminallarının 7/24 fəaliyyət göstərməsi sayəsində ən son anda edilən ödənişlər belə dərhal hesabda əks olunur."
+        },
+        "card3":{
+            "h5":"Müştəri məmnuniyyəti",
+            "p":"Daim innovativ yeniliklərdən faydalanaraq müştərilərimizin gözləntilərinə cavab verən yeniliklər edir və mövcud xidmətləri inkişaf etdiririk."
+        },
+        "card4":{
+            "h5":"Sadə və istifadəsi rahat interfeys",
+            "p":"eManat terminalının dizaynı istifadəçinin dostudur, müştəri gözləntiləri nəzərə alınaraq terminallar funksional şəkildə dizayn edilmişdir."
+        },
+        "card5":{
+            "h5":"Vaxta və pula qənaət",
+            "p":"eManat terminalları geniş əhatə dairəsinə malik olması əlavə zaman və pul itkisi olmadan bütün ödənişləri anında etməyə imkan verir."
+        },
+        "card6":{
+            "h5":"Müştəri xidmətləri",
+            "p":"Həll yönümlü şirkət olmaq prinsiplərimizdən biri olduğu üçün operativ şəkildə bütün suallarınızı cavablayan müştəri xidmətlərinə sahibik."
+        }
+    },
+    "emekdasliq":{
+        "h1":"eManat",
+        "h2":"ilə əməkdaşlıq",
+        "p":"Ödəniş etdiyiniz anda xidmət təminatçısı ödəniş barəsində məlumat alacaq və məbləğ dərhal balansınıza köçürüləcək.",
+        "button":"İndi qoşul"
+    },
+    "map":{
+        "h1":"ÖLKƏDAXİLİ 3000-DƏN ARTIQ ÖDƏNİŞ NÖQTƏSİ",
+        "h4":"FinTex texnologiyasının tətbiqinin peşəkar nümunəsi olan eManat ilə ödənişlərin sadə, sürətli və təhlükəsiz üsulundan sən də faydalan!",
+        "button":"Daha çox öyrən"
+    },
+    "komandamiz":{
+        "h1":"KOMANDAMIZA QOŞULUN!",
+        "p":"Peşəkar və gördüyü işlə fərq yaratmaq istəyən əməkdaşlardan ibarət olan komandamızda səni gözləyirik!",
+        "button":"Daha çox öyrən"
+    }
+}

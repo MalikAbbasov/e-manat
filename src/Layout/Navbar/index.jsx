@@ -1,12 +1,27 @@
 import React, { useState } from 'react';
-import "./navbar.scss";
+import "./navbar.scss"; 
+import i18n from '../../i18n';
+import { useTranslation } from 'react-i18next';
 
 function Navbar() {
 
+
+    const [locale, setLocale] = useState(i18n.language)
+
+    i18n.on("languageChanged", (lng)=>setLocale(i18n.language))
+
+    const { t } = useTranslation();
+
     const [asideInp, setAsideInp] = useState(false)
+    
     function handleInput() {
         setAsideInp(!asideInp)
     }
+
+
+    const handleChange=(event)=>{
+        i18n.changeLanguage(event.target.value)
+      }
 
     return (
         <div>
@@ -20,20 +35,23 @@ function Navbar() {
                             </div>
                             <div className="pages">
                                 <ul>
-                                    <li>Ana Səhifə</li>
-                                    <li>Haqqımızda</li>
-                                    <li>Əməkdaşlıq</li>
-                                    <li>Karyera</li>
-                                    <li>Terminal xəritəsi</li>
+                                    <li>{t('navbar.pages.li1')}</li>
+                                    <li>{t('navbar.pages.li2')}</li>
+                                    <li>{t('navbar.pages.li3')}</li>
+                                    <li>{t('navbar.pages.li4')}</li>
+                                    <li>{t('navbar.pages.li5')}</li>
                                 </ul>
                             </div>
-                            <div className="language">
-                                <select name="" id="">
-                                    <option value="az">Az</option>
-                                    <option value="eng">Eng</option>
-                                    <option value="ru">Ru</option>
+                                
+                                <div className="language">
+                                <select name="" id="" value={locale} onChange={handleChange}>
+                                    <option  value={"az"} >Az</option>
+                                    <option  value={"en"} >Eng</option>
+                                    <option  value={"ru"} >Ru</option>
+                                    <option value="fr">Fr</option>
                                 </select>
                             </div>
+                                
                         </div>
                     </div>
                 </div>
