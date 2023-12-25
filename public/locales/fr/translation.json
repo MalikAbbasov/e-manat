@@ -1,82 +1,96 @@
 {
-    "navbar":{
+    "navbar": {
         "pages": {
-            "li1":"Page d'accueil",
-            "li2":"À propos de nous",
-            "li3":"Coopération",
-            "li4":"Carrière",
-            "li5":"Plan des terminaux"
-        }
-    },  
-    "header":{
-        "text" : {
-            "h1":"DES PAIEMENTS FIABLES À UNE SEULE ADRESSE !",
-            "p":"NOUS SOMMES PRÊTS À VOTRE SERVICE 24h/24 et 7j/7, AVEC PLUS DE 3000 TERMINAUX DE PAIEMENT ET UNE INTERFACE CONVIVIALE ET PRATIQUE !",
-            "button":"Plus de détails"
+            "li1": "Page d'accueil",
+            "li2": "À propos de nous",
+            "li3": "Coopération",
+            "li4": "Carrière",
+            "li5": "Plan des terminaux"
         }
     },
-    "animation_section":{
-        "card1":{
-            "h3":"1000+ prestations",
-            "p":"Tous les paiements mobiles, utilitaires, bancaires, Internet, TV, gouvernementaux et autres dans les terminaux eManat !!"
-        },
-        "card2":{
-            "h3":"Plus de 3000 terminaux",
-            "p":"Vous pouvez facilement payer n'importe quel service sur le terminal de paiement eManat le plus proche de chez vous !"
-        },
-        "card3":{
-            "h3":"Rapide et fiable",
-            "p":"Avec eManat, effectuez tous les paiements facilement, rapidement et en toute sécurité !"
+    "header": {
+        "text": {
+            "h1": "DES PAIEMENTS FIABLES À UNE SEULE ADRESSE !",
+            "p": "NOUS SOMMES PRÊTS À VOTRE SERVICE 24h/24 et 7j/7, AVEC PLUS DE 3000 TERMINAUX DE PAIEMENT ET UNE INTERFACE CONVIVIALE ET PRATIQUE !",
+            "button": "Plus de détails"
         }
     },
-    "emanatsection":{
-        "text":{
-            "h1":"Avec",
-            "h2":"eManat"
+    "animation_section": {
+        "card1": {
+            "h3": "1000+ prestations",
+            "p": "Tous les paiements mobiles, utilitaires, bancaires, Internet, TV, gouvernementaux et autres dans les terminaux eManat !!"
         },
-        "card1":{
-            "h5":"Recevez un paiement immédiat",
-            "p":"Dès que vous effectuez un paiement, le prestataire recevra les informations de paiement et le montant sera immédiatement crédité sur votre solde.",
-            "a":"inscrit"
+        "card2": {
+            "h3": "Plus de 3000 terminaux",
+            "p": "Vous pouvez facilement payer n'importe quel service sur le terminal de paiement eManat le plus proche de chez vous !"
         },
-        "card2":{
-            "h5":"Possibilité de paiement rapide",
-            "p":"Grâce au fonctionnement 24 heures sur 24 des terminaux eManat, les paiements effectués au tout dernier moment sont immédiatement répercutés sur le compte."
-        },
-        "card3":{
-            "h5":"Satisfaction du client",
-            "p":"En capitalisant sur l'innovation, nous améliorons les services existants et introduisons des innovations qui répondent aux attentes de nos clients."
-        },
-        "card4":{
-            "h5":"Interface simple et pratique",
-            "p":"Interface simple et conviviale La conception du terminal eManat est conviviale et fonctionnellement conçue pour répondre aux attentes des clients."
-        },
-        "card5":{
-            "h5":"Économie de temps et d'argent",
-            "p":"La large couverture des terminaux eManat permet d'effectuer tous les paiements instantanément sans coûts supplémentaires en termes de temps et d'argent."
-        },
-        "card6":{
-            "h5":"Service client",
-            "p":"En tant qu'entreprise axée sur les solutions, nous disposons d'un service clientèle qui répondra rapidement à toutes vos questions."
+        "card3": {
+            "h3": "Rapide et fiable",
+            "p": "Avec eManat, effectuez tous les paiements facilement, rapidement et en toute sécurité !"
         }
     },
-    "emekdasliq":{
-        "h1":"Collaboration avec",
-        "h2":"eManat",
-        "p":"Dès que vous effectuez un paiement, le prestataire de services recevra des informations sur le paiement, et le montant sera transféré immédiatement sur votre solde.",
-        "button":"Rejoignez maintenant"
+    "emanatsection": {
+        "text": {
+            "h1": "Avec",
+            "h2": "eManat"
+        },
+        "card1": {
+            "h5": "Recevez un paiement immédiat",
+            "p": "Dès que vous effectuez un paiement, le prestataire recevra les informations de paiement et le montant sera immédiatement crédité sur votre solde.",
+            "a": "inscrit"
+        },
+        "card2": {
+            "h5": "Possibilité de paiement rapide",
+            "p": "Grâce au fonctionnement 24 heures sur 24 des terminaux eManat, les paiements effectués au tout dernier moment sont immédiatement répercutés sur le compte."
+        },
+        "card3": {
+            "h5": "Satisfaction du client",
+            "p": "En capitalisant sur l'innovation, nous améliorons les services existants et introduisons des innovations qui répondent aux attentes de nos clients."
+        },
+        "card4": {
+            "h5": "Interface simple et pratique",
+            "p": "Interface simple et conviviale La conception du terminal eManat est conviviale et fonctionnellement conçue pour répondre aux attentes des clients."
+        },
+        "card5": {
+            "h5": "Économie de temps et d'argent",
+            "p": "La large couverture des terminaux eManat permet d'effectuer tous les paiements instantanément sans coûts supplémentaires en termes de temps et d'argent."
+        },
+        "card6": {
+            "h5": "Service client",
+            "p": "En tant qu'entreprise axée sur les solutions, nous disposons d'un service clientèle qui répondra rapidement à toutes vos questions."
+        }
     },
-    "map":{
-        "h1":"POINT DE PAIEMENT NATIONAL, DÉSORMAIS À PARTIR DE 3000",
-        "h4":"Profitez de la méthode de paiement simple, rapide et sécurisée avec eManat, un exemple professionnel de la technologie FinTech !",
-        "button":"En savoir plus"
+    "emekdasliq": {
+        "h1": "Collaboration avec",
+        "h2": "eManat",
+        "p": "Dès que vous effectuez un paiement, le prestataire de services recevra des informations sur le paiement, et le montant sera transféré immédiatement sur votre solde.",
+        "button": "Rejoignez maintenant"
     },
-    "komandamiz":{
-        "h1":"REJOIGNEZ NOTRE ÉQUIPE !",
-        "p":"Nous attendons des professionnels et des collègues qui veulent faire la différence dans notre équipe !",
-        "button":"En savoir plus"
-    }
-    
-   
-    
+    "map": {
+        "h1": "POINT DE PAIEMENT NATIONAL, DÉSORMAIS À PARTIR DE 3000",
+        "h4": "Profitez de la méthode de paiement simple, rapide et sécurisée avec eManat, un exemple professionnel de la technologie FinTech !",
+        "button": "En savoir plus"
+    },
+    "komandamiz": {
+        "h1": "REJOIGNEZ NOTRE ÉQUIPE !",
+        "p": "Nous attendons des professionnels et des collègues qui veulent faire la différence dans notre équipe !",
+        "button": "En savoir plus"
+    },
+    "korperativ": {
+        "h1-evvel": "CORPORATIF",
+        "h1-sonra": "RESPONSABILITÉ",
+        "span": "SOCIAL",
+        "p": "Nous nous efforçons toujours de contribuer au développement continu de notre pays et de notre jeunesse.",
+        "button": "Détails"
+    },
+    "sonxeber":{
+        "h1":"DERNIÈRES NOUVELLES",
+        "link":"Voir tout",
+        "mycard1-h4":"Paiement Bakcell",
+        "mycard2-h4":"Paiements Internet Aztelekom",
+        "mycard3-h4":"Paiements Contact Home",
+        "mycard4-h4":"Paiements de services publics",
+        "mycard5-h4":"Paiements de crédit ABB",
+        "mycard6-h4":"Méthode pratique de paiement pour AzParking !"
+    }    
 }

@@ -1,83 +1,97 @@
 {
-    "navbar":{
+    "navbar": {
         "pages": {
-            "li1":"Home",
-            "li2":"About",
-            "li3":"Contact",
-            "li4":"Career",
-            "li5":"Terminal Map"
-        }
-    },  
-    
-    "header":{
-        "text" : {
-            "h1":"RELIABLE PAYMENTS IN ONE ADDRESS!",
-            "p":"WITH MORE THAN 3000 PAYMENT TERMINALS AND A USER-FRIENDLY INTERFACE, WE ARE AVAILABLE 24/7!",
-            "button":"More"
+            "li1": "Home",
+            "li2": "About",
+            "li3": "Contact",
+            "li4": "Career",
+            "li5": "Terminal Map"
         }
     },
-    "animation_section":{
-        "card1":{
-            "h3":"1000+ services",
-            "p":"All mobile, utility, bank, internet, TV, government, etc. payments at eManat terminals!"
-        },
-        "card2":{
-            "h3":"3000+ terminal",
-            "p":"You can easily pay for the service you want at the eManat payment terminal near you!"
-        },
-        "card3":{
-            "h3":"Fast and reliable",
-            "p":"Make all payments conveniently, quickly and securely with eManat!"
+    "header": {
+        "text": {
+            "h1": "RELIABLE PAYMENTS IN ONE ADDRESS!",
+            "p": "WITH MORE THAN 3000 PAYMENT TERMINALS AND A USER-FRIENDLY INTERFACE, WE ARE AVAILABLE 24/7!",
+            "button": "More"
         }
     },
-    "emanatsection":{
-        "text":{
-            "h1":"With",
-            "h2":"eManat"
+    "animation_section": {
+        "card1": {
+            "h3": "1000+ services",
+            "p": "All mobile, utility, bank, internet, TV, government, etc. payments at eManat terminals!"
         },
-        "card1":{
-            "h5":"Immediate receipt of payment",
-            "p":"When you make a payment, your payment is as soon as it is made, and the service provider is immediately notified of the transaction.",
-            "a":"processed"
+        "card2": {
+            "h3": "3000+ terminal",
+            "p": "You can easily pay for the service you want at the eManat payment terminal near you!"
         },
-        "card2":{
-            "h5":"Fast payment option",
-            "p":"eManat terminals are operational 24/7, and even last-minute payments are instantly reflected in the account."
-        },
-        "card3":{
-            "h5":"Customer satisfaction",
-            "p":"We provide innovations that meet our client's expectations while also expanding current offerings through the incorporation of innovative thinking."
-        },
-        "card4":{
-            "h5":"Simple and easy to use interface",
-            "p":"eManat terminal's design is user-friendly, and the terminals are operationally developed with the customer's expectations in mind."
-        },
-        "card5":{
-            "h5":"Saving time and money",
-            "p":"The extensive coverage of eManat terminals means you can save time and money by making payments instantaneously."
-        },
-        "card6":{
-            "h5":"Customer service",
-            "p":"One of our guiding values is to be a solution-oriented company, thus we provide customer support that responds timely to all of your queries."
+        "card3": {
+            "h3": "Fast and reliable",
+            "p": "Make all payments conveniently, quickly and securely with eManat!"
         }
     },
-    "emekdasliq":{
-        "h1":"Cooperation with",
-        "h2":"eManat",
-        "p":"As soon as you make a payment, the service provider will receive information about the payment, and the amount will be transferred to your balance immediately.",
-        "button":"Join Now"
+    "emanatsection": {
+        "text": {
+            "h1": "With",
+            "h2": "eManat"
+        },
+        "card1": {
+            "h5": "Immediate receipt of payment",
+            "p": "When you make a payment, your payment is as soon as it is made, and the service provider is immediately notified of the transaction.",
+            "a": "processed"
+        },
+        "card2": {
+            "h5": "Fast payment option",
+            "p": "eManat terminals are operational 24/7, and even last-minute payments are instantly reflected in the account."
+        },
+        "card3": {
+            "h5": "Customer satisfaction",
+            "p": "We provide innovations that meet our client's expectations while also expanding current offerings through the incorporation of innovative thinking."
+        },
+        "card4": {
+            "h5": "Simple and easy to use interface",
+            "p": "eManat terminal's design is user-friendly, and the terminals are operationally developed with the customer's expectations in mind."
+        },
+        "card5": {
+            "h5": "Saving time and money",
+            "p": "The extensive coverage of eManat terminals means you can save time and money by making payments instantaneously."
+        },
+        "card6": {
+            "h5": "Customer service",
+            "p": "One of our guiding values is to be a solution-oriented company, thus we provide customer support that responds timely to all of your queries."
+        }
     },
-    "map":{
-        "h1":"NATIONAL PAYMENT POINT, NOW FROM 3000",
-        "h4":"Benefit from the simple, fast, and secure method of payments with eManat, a professional example of FinTech technology!",
-        "button":"Learn More"
+    "emekdasliq": {
+        "h1": "Cooperation with",
+        "h2": "eManat",
+        "p": "As soon as you make a payment, the service provider will receive information about the payment, and the amount will be transferred to your balance immediately.",
+        "button": "Join Now"
     },
-    "komandamiz":{
-        "h1":"JOIN OUR TEAM!",
-        "p":"We are waiting for professionals and colleagues who want to make a difference in our team!",
-        "button":"Learn More"
+    "map": {
+        "h1": "NATIONAL PAYMENT POINT, NOW FROM 3000",
+        "h4": "Benefit from the simple, fast, and secure method of payments with eManat, a professional example of FinTech technology!",
+        "button": "Learn More"
+    },
+    "komandamiz": {
+        "h1": "JOIN OUR TEAM!",
+        "p": "We are waiting for professionals and colleagues who want to make a difference in our team!",
+        "button": "Learn More"
+    },
+    "korperativ": {
+        "h1-evvel": "CORPORATE",
+        "h1-sonra": "RESPONSIBILITY",
+        "span": "SOCIAL",
+        "p": "We make every effort to contribute to the sustainable development of our country and its youth.",
+        "button": "More"
+    },
+    "sonxeber":{
+        "h1":"LATEST NEWS",
+        "link":"View All",
+        "mycard1-h4":"Bakcell Payment",
+        "mycard2-h4":"Aztelekom Internet Payments",
+        "mycard3-h4":"Contact Home Payments",
+        "mycard4-h4":"Utility Payments",
+        "mycard5-h4":"ABB Credit Payments",
+        "mycard6-h4":"Convenient method for AzParking payments!"
     }
-    
-    
     
 }

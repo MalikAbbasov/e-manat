@@ -76,5 +76,22 @@
         "h1":"KOMANDAMIZA QOŞULUN!",
         "p":"Peşəkar və gördüyü işlə fərq yaratmaq istəyən əməkdaşlardan ibarət olan komandamızda səni gözləyirik!",
         "button":"Daha çox öyrən"
+    },
+    "korperativ":{
+        "h1-evvel":"KORPORATİV",
+        "h1-sonra":"MƏSULİYYƏTİMİZ",
+        "span":"SOSİAL",
+        "p":"Hər zaman ölkəmizin və gəncliyimizin davamlı inkişafına qatqıda olmağa çalışırıq",
+        "button":"Ətraflı"
+    },
+    "sonxeber":{
+        "h1":"ƏN SON XƏBƏRLƏR",
+        "link":"Hamısına Bax",
+        "mycard1-h4":"Bakcell ödənişi",
+        "mycard2-h4":"Aztelekom İnternet Ödənişləri",
+        "mycard3-h4":"Kontakt Home Ödənişləri",
+        "mycard4-h4":"Kommunal Ödənişlər",
+        "mycard5-h4":"ABB Kredit Ödənişləri",
+        "mycard6-h4":"AzParking ödənişlərinin rahat üsulu!"
     }
 }

@@ -5,6 +5,9 @@ import Emanatsection from '../../components/Emanatsection'
 import Emekdasliq from '../../components/Emekdasliq'
 import Map from '../../components/Map'
 import Komandamiz from '../../components/Komandamiz'
+import Korperativ from '../../components/Korperativ'
+import Ensonxeberler from '../../components/Ensonxeberler'
+import Infiniteanimation from '../../components/Infiniteanimation'
 
 
 
@@ -17,6 +20,9 @@ function Home() {
         <Emekdasliq/>
         <Map/>
         <Komandamiz/>
+        <Korperativ/>
+        <Ensonxeberler/>
+        <Infiniteanimation/>
     </div>
   )
 }

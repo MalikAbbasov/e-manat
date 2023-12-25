@@ -13,7 +13,7 @@ function Emekdasliq() {
         dots: true,
         infinite: true,
         slidesToShow: 3,
-        slidesToScroll: 1,
+        slidesToScroll: 2,
         autoplay: true,
         speed: 1500,
         autoplaySpeed: 3500,
